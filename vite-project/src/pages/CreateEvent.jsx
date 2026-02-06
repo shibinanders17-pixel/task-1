@@ -21,6 +21,6 @@ export default function CreateEvent() {
       <button onClick={handleAdd}>Create</button>
     </div>
   );
-}
+};
 
 
